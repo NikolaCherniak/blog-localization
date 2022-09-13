@@ -1,0 +1,11 @@
+{
+  "blog": "Блог",
+  "recommend_reading": "Рекомендуем прочесть",
+  "post_preview_alternative_text": "Зображення посту {{postTitle}}",
+  "modal": {
+    "title": "Зміна мови посту",
+    "content": "Мова посту відрізняється від вибраної мови, бажаєте її перекласти через Google Translate?",
+    "translate": "Перекласти",
+    "cancel": "Скасування"
+  }
+}
