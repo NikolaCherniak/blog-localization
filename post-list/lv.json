@@ -1,0 +1,5 @@
+{
+  "blog": "Blogs",
+  "post_preview_alternative_text": "Ziņas priekšskatījums {{postTitle}}",
+  "post_preview_alternative_text.comment": "Комментарий для переводчика: это текст который отображается при наведении на превьюшку поста"
+}

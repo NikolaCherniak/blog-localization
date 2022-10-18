@@ -1,0 +1,11 @@
+{
+  "blog": "Blogs",
+  "recommend_reading`": "Iesakām izlasīt",
+  "post_preview_alternative_text": "Ziņas priekšskatījums {{postTitle}}",
+  "modal": {
+    "title": "Ziņas valodas maiņa",
+    "content": "Ziņas valoda atšķiras no izvēlētās valodas, vai vēlaties to tulkot, izmantojot Google tulkotāju?",
+    "translate": "Tulkot",
+    "cancel": "Atcelt"
+  }
+}
