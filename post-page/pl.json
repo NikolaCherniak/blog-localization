@@ -1,0 +1,11 @@
+{
+	"blog": "Blog",
+	"recommend_reading": "Polecamy lekturę",
+	"post_preview_alternative_text": "Opublikuj obraz {{postTitle}}",
+	"modal": {
+		"title": "Zmiana języka postu",
+		"content": "Język posta różni się od wybranego języka, czy chcesz go przetłumaczyć za pomocą Tłumacza Google?",
+		"translate": "Tłumaczyć",
+		"cancel": "Anulować"
+	}
+}
