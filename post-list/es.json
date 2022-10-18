@@ -1,0 +1,5 @@
+{
+	"blog": "Blog",
+	"post_preview_alternative_text": "Publicar vista previa {{postTitle}}",
+	"post_preview_alternative_text.comment": "Comentario para el traductor: este es el texto que se muestra cuando pasa el cursor sobre la vista previa de la publicación"
+}

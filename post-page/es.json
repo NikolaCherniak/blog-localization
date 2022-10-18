@@ -1,0 +1,11 @@
+{
+	"blog": "Blog",
+	"recommend_reading": "Lectura recomendada",
+	"post_preview_alternative_text": "Publicar texto alternativo de vista previa",
+	"modal": {
+		"title": "Cambiar el idioma de una publicación",
+		"content": "El idioma de la publicación es diferente al idioma seleccionado, ¿le gustaría traducirlo con Google Translate?",
+		"translate": "Traducir",
+		"cancel": "Cancelar"
+	}
+}
