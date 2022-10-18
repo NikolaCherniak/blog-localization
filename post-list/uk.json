@@ -1,4 +1,5 @@
 {
-  "blog": "Блог",
-  "post_preview_alternative_text": "Зображення посту {{postTitle}}"
+	"blog": "Блог",
+	"post_preview_alternative_text": "Зображення посту {{postTitle}}",
+	"post_preview_alternative_text.comment": "Коментар для перекладача: це текст, який відображається при наведенні на превью поста"
 }
