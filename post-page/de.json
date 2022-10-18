@@ -1,0 +1,11 @@
+{
+	"blog": "Bloggen",
+	"recommend_reading": "Lektüre empfehlen",
+	"post_preview_alternative_text": "Post-Vorschau-Alternativtext",
+	"modal": {
+		"title": "Ändern der Sprache eines Beitrags",
+		"content": "Die Sprache des Beitrags weicht von der ausgewählten Sprache ab. Möchten Sie ihn mit Google Translate übersetzen?",
+		"translate": "Übersetzen",
+		"cancel": "Absagen"
+	}
+}
