@@ -1,0 +1,5 @@
+{
+	"blog": "Blogi",
+	"post_preview_alternative_text": "Viestin esikatselu {{postTitle}}",
+	"post_preview_alternative_text.comment": "Kommentti kääntäjälle: tämä on teksti, joka näytetään, kun viet hiiren osoittimen tekstin esikatselun päälle"
+}

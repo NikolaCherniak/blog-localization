@@ -1,0 +1,11 @@
+{
+	"blog": "Blogi",
+	"recommend_reading": "Lukemissuositus",
+	"post_preview_alternative_text": "Postauksen esikatselu vaihtoehtoinen teksti",
+	"modal": {
+		"title": "Viestin kielen muuttaminen",
+		"content": "Viestin kieli eroaa valitusta kielestä. Haluatko kääntää sen Google-kääntäjällä?",
+		"translate": "Kääntää",
+		"cancel": "Peruuttaa"
+	}
+}
