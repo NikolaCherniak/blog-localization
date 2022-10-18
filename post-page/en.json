@@ -1,11 +1,12 @@
 {
-  "blog": "Blog",
-  "recommend_reading`": "Reading recommend",
-  "post_preview_alternative_text": "Post preview alternative text",
-  "modal": {
-    "title": "Changing the language of a post",
-    "content": "The language of the post is different from the selected language, would you like to translate it using Google Translate?",
-    "translate": "Translate",
-    "cancel": "Cancel"
-  }
+	"blog": "Blog",
+	"recommend_reading`": "Reading recommend",
+	"post_preview_alternative_text": "Post preview alternative text",
+	"modal": {
+		"title": "Changing the language of a post",
+		"content": "The language of the post is different from the selected language, would you like to translate it using Google Translate?",
+		"translate": "Translate",
+		"cancel": "Cancel"
+	},
+	"recommend_reading": "We recommend reading"
 }
