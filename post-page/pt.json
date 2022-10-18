@@ -1,12 +1,11 @@
 {
 	"blog": "Blogue",
-	"recommend_reading`": "Recomendação de leitura",
+	"recommend_reading": "Recomendação de leitura",
 	"post_preview_alternative_text": "Postar texto alternativo de visualização",
 	"modal": {
 		"title": "Alterando o idioma de uma postagem",
 		"content": "O idioma da postagem é diferente do idioma selecionado, você gostaria de traduzi-lo usando o Google Tradutor?",
 		"translate": "Traduzir",
 		"cancel": "Cancelar"
-	},
-	"recommend_reading": "Recomendamos a leitura"
+	}
 }
