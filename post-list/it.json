@@ -1,0 +1,5 @@
+{
+	"blog": "Blog",
+	"post_preview_alternative_text": "Anteprima del post {{postTitle}}",
+	"post_preview_alternative_text.comment": "Commento per traduttore: questo è il testo che viene visualizzato quando si passa il mouse sull'anteprima del post"
+}
