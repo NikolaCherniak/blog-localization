@@ -1,0 +1,11 @@
+{
+	"blog": "博客",
+	"recommend_reading": "阅读推荐",
+	"post_preview_alternative_text": "发布预览替代文本",
+	"modal": {
+		"title": "更改帖子的语言",
+		"content": "帖子的语言与所选语言不同，您要使用 Google 翻译进行翻译吗？",
+		"translate": "翻译",
+		"cancel": "取消"
+	}
+}
