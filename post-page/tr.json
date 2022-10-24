@@ -1,0 +1,11 @@
+{
+	"blog": "Blog",
+	"recommend_reading": "okuma tavsiyesi",
+	"post_preview_alternative_text": "Önizleme alternatif metni yayınla",
+	"modal": {
+		"title": "Bir gönderinin dilini değiştirme",
+		"content": "Gönderinin dili seçilen dilden farklı, Google Translate kullanarak çevirmek ister misiniz?",
+		"translate": "Çevirmek",
+		"cancel": "İptal"
+	}
+}
